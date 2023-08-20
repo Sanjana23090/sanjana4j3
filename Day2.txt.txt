@@ -1,0 +1,12 @@
+SEPERATOR:
+. It is used to seperate input values stored in variables (or) if u directly want to print values they should be given in single quotes
+. sep='' means it prints values continuously without spaces.
+
+end=' '
+. It is used to concatenate each and every value in same line along with specified characters.
+
+split()
+.It is used to get multiple inputs from user along with white space.
+. Syntax- input().split(seperator,maxsplit)
+
+Each and every time your outer for was initialized and inner for was reinitialized
